@@ -1,0 +1,1 @@
+This is where the following stuff should be appended (output_redirect overwrote this):
